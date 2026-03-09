@@ -92,13 +92,13 @@ h1 {
 		linear-gradient(140deg, rgba(24, 31, 71, 0.62) 0%, rgba(11, 15, 35, 0.65) 100%) padding-box,
 		linear-gradient(
 			115deg,
-			rgba(126, 145, 255, 0.9) 0%,
-			rgba(136, 170, 255, 0.9) 16%,
-			rgba(122, 214, 255, 0.9) 34%,
-			rgba(139, 227, 255, 0.9) 50%,
-			rgba(171, 201, 255, 0.9) 66%,
-			rgba(186, 169, 255, 0.9) 82%,
-			rgba(161, 159, 255, 0.9) 100%
+			rgba(255, 126, 126, 0.9) 0%,
+			rgba(255, 233, 136, 0.9) 16%,
+			rgba(231, 255, 122, 0.9) 34%,
+			rgba(166, 255, 139, 0.9) 50%,
+			rgba(171, 249, 255, 0.9) 66%,
+			rgba(192, 169, 255, 0.9) 82%,
+			rgba(239, 159, 255, 0.9) 100%
 		) border-box;
 	border: 1px solid transparent;
 	backdrop-filter: blur(12px);
@@ -175,7 +175,7 @@ h1 {
 	margin-inline: auto;
 	border-radius: 50%;
 	padding: 1rem;
-	background: radial-gradient(circle at 32% 24%, #3449ad 0%, #111739 58%, #05070f 100%);
+	background: radial-gradient(circle at 32% 24%, #e28fd7 0%, #df9c9c 58%, #eb96f7 100%);
 	border: 1px solid rgba(175, 188, 255, 0.28);
 	box-shadow:
 		inset 0 20px 55px rgba(255, 255, 255, 0.05),
